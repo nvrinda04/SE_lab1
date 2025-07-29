@@ -1,0 +1,7 @@
+
+secret_file.txt
+temp/
+folder/*
+!folder/important_file.txt
+*.bak
+*.log
